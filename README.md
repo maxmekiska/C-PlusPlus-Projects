@@ -18,4 +18,4 @@ Paul Fine, Ken Eames, David L. Heymann, “Herd Immunity”: A Rough Guide, Clin
 
 
 
-![]()
+![](demo-gif)
