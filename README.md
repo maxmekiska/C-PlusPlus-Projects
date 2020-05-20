@@ -15,3 +15,7 @@ The calculator will furthermore generate a number of general cases for a variety
 Refrences:
 
 Paul Fine, Ken Eames, David L. Heymann, “Herd Immunity”: A Rough Guide, Clinical Infectious Diseases, Volume 52, Issue 7, 1 April 2011, Pages 911–916, https://doi.org/10.1093/cid/cir007
+
+
+
+![]()
