@@ -1,13 +1,13 @@
 # Herd-Immunity-calculator
-Simple calculator that calculates herd immunity threshold when given a R0 rate.
+Simple calculator that calculates herd immunity threshold when given a R_0 rate.
 
 The calculator is based on the following formula:
 
-(R0 − 1) / R0
+(R_0 − 1) / R_0
 
 where:
 
-R0 = basic reproduction number: the number of individuals an infected person infects when the rest of the population is susceptible
+R_0 = basic reproduction number: the number of individuals an infected person infects when the rest of the population is susceptible
 
 The calculator will furthermore generate a number of general cases for a variety of R0 rates.
 
@@ -18,7 +18,7 @@ Paul Fine, Ken Eames, David L. Heymann, “Herd Immunity”: A Rough Guide, Clin
 
 
 
-The following is an example for a R0 rate of 3:
+The following is an example for a R_0 rate of 3:
 
 
 ![](demo-gif.gif)
