@@ -1,4 +1,4 @@
-# Herd-Immunity-calculator
+# Simple herd immunity calculator
 Simple calculator that calculates herd immunity threshold when given a R<sub>0</sub> rate.
 
 The calculator is based on the following formula:
@@ -22,3 +22,6 @@ The following is an example for a R<sub>0</sub> rate of 3:
 
 
 ![](Herd-Immunity-calculator/demo-gif.gif)
+
+
+# Buffon's needle problem
