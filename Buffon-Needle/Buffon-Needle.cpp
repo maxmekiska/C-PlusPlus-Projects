@@ -58,6 +58,7 @@ double buffon(double l, double b, double Nsample)
 
 int main()
 {
-	std::cout << "Numerical Result: " <<  buffon(1, 1, 100000000) << " \n" <<  "Analytical Result: " << 2/(3.1415 * 1) ;
+	double result = buffon(1, 1, 100000000);
+	std::cout << "Numerical Result: " <<  result << "\nAnalytical Result: " << 2/(3.1415926535897932384626 * 1) << "\nPi estimation: " << 2/result;
 }
 
