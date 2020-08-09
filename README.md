@@ -21,4 +21,4 @@ Paul Fine, Ken Eames, David L. Heymann, “Herd Immunity”: A Rough Guide, Clin
 The following is an example for a R<sub>0</sub> rate of 3:
 
 
-![](demo-gif.gif)
+![](Herd-Immunity-calculator/demo-gif.gif)
