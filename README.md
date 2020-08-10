@@ -26,4 +26,4 @@ The following is an example for a R<sub>0</sub> rate of 3:
 
 # Buffon's needle problem
 
-![](Buffon-Needle/demo-2.gif)
+![](Buffon-Needle/demo-needle.gif)
