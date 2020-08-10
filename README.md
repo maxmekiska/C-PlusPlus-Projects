@@ -12,7 +12,7 @@ R<sub>0</sub> = basic reproduction number: the number of individuals an infected
 The calculator will furthermore generate a number of general cases for a variety of R<sub>0</sub> rates.
 
 
-References:
+#### References:
 
 Paul Fine, Ken Eames, David L. Heymann, “Herd Immunity”: A Rough Guide, Clinical Infectious Diseases, Volume 52, Issue 7, 1 April 2011, Pages 911–916, https://doi.org/10.1093/cid/cir007
 
@@ -47,9 +47,10 @@ Numerical result:
 The code represents a simplified Monte Carlo simulation which throws virtually a needle many times over while counting hits if x<sub>tip</sub> is < 0. Finally, the numerical solution is estimated by dividing N<sub>hits</sub>  by the total number of throws. Additionally, based on the resulting probability we can estimate π value by: 2 / probability<sub>estimated</sub>
 
 
-References:
-Theory of content:
-Notes from my course: Methods and Data Analytics in Risk Assessment delivered by Christoph Feinauer, Fabrizio Pittorino, Enrico Malatesta at Bocconi University – Spring 2020
+#### References:
+Theory of content: 
+
+<br/>Notes from my course: Methods and Data Analytics in Risk Assessment delivered by Christoph Feinauer, Fabrizio Pittorino, Enrico Malatesta at Bocconi University – Spring 2020
 
 Uniform random number computation:
 
