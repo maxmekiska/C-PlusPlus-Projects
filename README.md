@@ -56,4 +56,7 @@ Uniform random number computation:
 
 Scheinerman, E. (2006). 4. 2 Uniform random values. In E. Scheinerman, C++ for Mathematicians An Introduction for Students and Professionals (pp. 54-57). Boca Raton, FL: Chapman & Hall/CRC.
 
+# Data Structures
 
+- Simple array based Stack implementation
+- Simple array based Queue implementation
